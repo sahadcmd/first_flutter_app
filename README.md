@@ -1,7 +1,7 @@
 <h1 align = "center"><b>First Flutter App</b></h1>
 
 <p align="center">
-    <a href="https://tic-tac-toe-sahadcmd.vercel.app/" target="_blank">Visit Website</a>
+    <a href="https://first-flutter-app.vercel.app/" target="_blank">Visit Website</a>
     ·
     <a href="https://github.com/sahadcmd/first_flutter_app/issues" target="_blank">Report Bug</a>
 </p>   
